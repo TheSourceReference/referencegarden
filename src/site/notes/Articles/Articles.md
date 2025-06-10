@@ -1,13 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","index","gardenEntry"]}
+{"dg-publish":true,"permalink":"/articles/articles/","tags":["index"]}
 ---
 
-## Articles
-
-For More Info, Go To [[Articles/Articles\|Articles]].
+## Bloomberg
 
 | File                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Articles/Bloomberg/Trump to Send 2,000 National Guard Troops to Calm LA Unrest\|Trump to Send 2,000 National Guard Troops to Calm LA Unrest]] |
+
+{ .block-language-dataview}
+
+---
+## Wikipedia
+
+| File |
+| ---- |
 
 { .block-language-dataview}
