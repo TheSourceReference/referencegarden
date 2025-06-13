@@ -11,6 +11,15 @@
 { .block-language-dataview}
 
 ---
+## Forbes
+
+| File                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Articles/Forbes/Air India Plane Crash - Only One Passenger Survived - Boeing Stands Ready For Probe (Live Updates)\|Air India Plane Crash - Only One Passenger Survived - Boeing Stands Ready For Probe (Live Updates)]] |
+
+{ .block-language-dataview}
+
+---
 ## Wikipedia
 
 | File |
